@@ -47,7 +47,7 @@ if($_SERVER['REQUEST_METHOD']=="POST"){
         <div class="card-header">Registration</div>
         <div class="card-body text-center">
             <form method="POST">
-                <label class="form-label">Username: </label>
+                <label class="form-label">Us ername: </label>
                 <input class="form-control" type ="text" name="username"><br><br>
                 <label class="form-label">Password: </label>
                 <input class="form-control" type ="password" name="password"><br><br>
